@@ -15,4 +15,8 @@
     <PackageReference Include="Aspire.Hosting.Azure.AppContainers" Version="9.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="../Job-DateInfo/Job-DateInfo.csproj" />
+  </ItemGroup>
+
 </Project>
